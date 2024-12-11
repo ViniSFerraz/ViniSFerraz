@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Vinícius Ferraz 👋
 
 🌱 Estou estudando php e MySQL
+🏫 Etec de Taboão da Serra
 
 <!--
 **ViniSFerraz/ViniSFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
