@@ -1,8 +1,13 @@
 ## Olá! Eu sou o Vinícius Ferraz 👋
 
-🌱 Estou estudando php e MySQL
+🌱 Estou estudando php e MySQL<br/>
 🏫 Etec de Taboão da Serra
 
+##
+
+<a href="https://www.instagram.com/sferraz_vini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vinicius-ferraz-9a403b341" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 <!--
 **ViniSFerraz/ViniSFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
